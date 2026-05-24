@@ -131,9 +131,9 @@ I run **[MTA Devworks](https://www.mtadevworks.web.id/)**, an independent web de
 
 <div align="center">
 
-| 💼 Business Websites | 🌐 Full-Stack Apps | 🛒 E-Commerce |
+| 💼 Business Websites | 🌐 Web Applications | 🛒 E-Commerce |
 |:---:|:---:|:---:|
-| Company profiles, landing pages, portfolio sites | Laravel + React / Next.js web apps with auth, APIs, dashboards | Transactional websites, payment integration, product catalogs |
+| Company profiles, landing pages, portfolio sites, and brochure websites that establish your brand online | Custom web apps with user accounts, admin dashboards, data workflows, and business process automation | Online stores with product catalogs, shopping carts, checkout flows, and payment integration
 
 </div>
 
