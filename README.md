@@ -4,14 +4,14 @@
 <!--  HERO BANNER                                    -->
 <!-- ─────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Mifdlal%20Tsaqib%20Alfarras&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=32&desc=Full-stack%20web%20developer%20using%20vibe%20coding%20to%20ship%20practical%20business%20websites.&descSize=16&descAlignY=55" alt="hero banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=MIFDLAL%20TSAQIB%20ALFARRAS&fontSize=38&fontColor=gradient&customColorList=10&animation=fadeIn&fontAlignY=32&desc=Full-stack%20web%20developer%20using%20vibe%20coding%20to%20ship%20practical%20business%20websites.&descSize=16&descAlignY=55" alt="hero banner" />
 
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mifdlaldev&color=58A6FF&style=flat)](https://github.com/mifdlaldev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mifdlaltsaqibalf25@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.mtadevworks.web.id/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:mtadevworks@outlook.com)
+[![Website](https://img.shields.io/badge/Website-21262D?style=flat&logo=About.me&logoColor=white)](https://www.mtadevworks.web.id/)
 
 </div>
 
@@ -37,7 +37,7 @@ mta@portfolio:~$ mta profile --full
 └─────────────────────────────────────────────────────────────┘
 
 mta@portfolio:~$ mta contact --brief
-📧 mifdlaltsaqibalf25@gmail.com
+📧 mtadevworks@outlook.com
 🔗 linkedin.com/in/mifdlal-tsaqib-alfarras
 🌐 mtadevworks.web.id
 
@@ -221,8 +221,8 @@ I'm **open to job opportunities** and **freelance projects**.
 
 <br>
 
-<a href="mailto:mifdlaltsaqibalf25@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:mtadevworks@outlook.com">
+  <img src="https://img.shields.io/badge/Email%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/">
@@ -230,7 +230,7 @@ I'm **open to job opportunities** and **freelance projects**.
 </a>
 &nbsp;
 <a href="https://www.mtadevworks.web.id/">
-  <img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  <img src="https://img.shields.io/badge/Visit%20Website-21262D?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
 </a>
 &nbsp;
 <a href="https://wa.me/6283147453448">
@@ -241,7 +241,7 @@ I'm **open to job opportunities** and **freelance projects**.
 
 | 📧 Email | 🔗 LinkedIn | 🌐 Website | 💬 WhatsApp |
 |----------|-------------|------------|-------------|
-| mifdlaltsaqibalf25@gmail.com | [mifdlal-tsaqib-alfarras](https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/) | [mtadevworks.web.id](https://www.mtadevworks.web.id/) | [+62 831-4745-3448](https://wa.me/6283147453448) |
+| mtadevworks@outlook.com | [mifdlal-tsaqib-alfarras](https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/) | [mtadevworks.web.id](https://www.mtadevworks.web.id/) | [+62 831-4745-3448](https://wa.me/6283147453448) |
 
 </div>
 
@@ -255,6 +255,6 @@ I'm **open to job opportunities** and **freelance projects**.
 
 <br>
 
-<sub>Built with intention by <strong>Mifdlal Tsaqib Alfarras</strong> · MTA Devworks</sub>
+<sub>Built with intention by <strong>MIFDLAL TSAQIB ALFARRAS</strong> · MTA Devworks</sub>
 
 </div>
