@@ -26,9 +26,9 @@ mta@portfolio:~$ mta profile --full
 │  AI-ASSISTED WEB DEVELOPER / MTA DEVWORKS                   │
 ├─────────────────────────────────────────────────────────────┤
 │  Name        : Mifdlal Tsaqib Alfarras                      │
-│  Role        : Full-stack Web Developer & Vibe Coder      │
+│  Role        : Full-stack Web Developer & Vibe Coder        │
 │  Education   : SMKN 1 Sumedang — Software Engineering       │
-│  Experience  : ~2 years hands-on web project delivery        │
+│  Experience  : ~2 years hands-on web project delivery       │
 │  Status      : open-for-work                                │
 │  Method      : vibe coding + technical review               │
 │  Delivery    : AI-assisted web delivery                     │
