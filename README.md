@@ -217,16 +217,12 @@ I'm **open to job opportunities** and **freelance projects**.
 <a href="https://www.mtadevworks.web.id/">
   <img src="https://img.shields.io/badge/Visit%20Website-21262D?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
 </a>
-&nbsp;
-<a href="https://wa.me/6283147453448">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
 
 <br><br>
 
-| 📧 Email | 🔗 LinkedIn | 🌐 Website | 💬 WhatsApp |
-|----------|-------------|------------|-------------|
-| mtadevworks@outlook.com | [mifdlal-tsaqib-alfarras](https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/) | [mtadevworks.web.id](https://www.mtadevworks.web.id/) | [+62 831-4745-3448](https://wa.me/6283147453448) |
+| 📧 Email | 🔗 LinkedIn | 🌐 Website |
+|----------|-------------|------------|
+| mtadevworks@outlook.com | [mifdlal-tsaqib-alfarras](https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/) | [mtadevworks.web.id](https://www.mtadevworks.web.id/) |
 
 </div>
 
