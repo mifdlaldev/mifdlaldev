@@ -4,7 +4,7 @@
 <!--  HERO BANNER                                    -->
 <!-- ─────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=MIFDLAL%20TSAQIB%20ALFARRAS&fontSize=38&fontColor=gradient&customColorList=10&animation=fadeIn&fontAlignY=32&desc=Full-stack%20web%20developer%20using%20vibe%20coding%20to%20ship%20practical%20business%20websites.&descSize=16&descAlignY=55" alt="hero banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=MIFDLAL%20TSAQIB%20ALFARRAS&fontSize=38&fontColor=gradient&customColorList=6&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontAlignY=32&desc=Full-stack%20web%20developer%20using%20vibe%20coding%20to%20ship%20practical%20business%20websites.&descSize=16&descAlignY=55&descColor=C9D1D9" alt="hero banner" />
 
 <br>
 
