@@ -51,10 +51,10 @@ mta@portfolio:~$ █
 <div align="center">
 
 <a href="https://github.com/mifdlaldev">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mifdlaldev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mifdlaldev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/mifdlaldev">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mifdlaldev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mifdlaldev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </a>
 
 <br>
@@ -205,7 +205,7 @@ A company profile website built for a logistics business. Clean, responsive, and
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mifdlaldev&repo=mifdlaldev&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&show_owner=true)](https://github.com/mifdlaldev/mifdlaldev)
+[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mifdlaldev&repo=mifdlaldev&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&show_owner=true)](https://github.com/mifdlaldev/mifdlaldev)
 
 </div>
 
