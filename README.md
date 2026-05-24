@@ -69,7 +69,7 @@ mta@portfolio:~$ █
 <!--  ABOUT ME                                       -->
 <!-- ─────────────────────────────────────────────── -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="👨‍💻" width="25" height="25" /> About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
@@ -100,7 +100,7 @@ I enjoy turning ideas into clean, responsive, and practical digital products tha
 <!--  MTA DEVWORKS                                   -->
 <!-- ─────────────────────────────────────────────── -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="25" height="25" /> MTA Devworks
+## 🚀 MTA Devworks
 
 I run **[MTA Devworks](https://www.mtadevworks.web.id/)**, an independent web development studio focused on building practical digital products for businesses and clients.
 
@@ -114,7 +114,7 @@ I run **[MTA Devworks](https://www.mtadevworks.web.id/)**, an independent web de
 <!--  HOW I WORK                                     -->
 <!-- ─────────────────────────────────────────────── -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="25" height="25" /> How I Work
+## ⚙️ How I Work
 
 | Stage | What Happens |
 |-------|--------------|
@@ -127,7 +127,7 @@ I run **[MTA Devworks](https://www.mtadevworks.web.id/)**, an independent web de
 <!--  SERVICES                                       -->
 <!-- ─────────────────────────────────────────────── -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="25" height="25" /> What I Can Build
+## 🛠️ What I Can Build
 
 <div align="center">
 
@@ -141,7 +141,7 @@ I run **[MTA Devworks](https://www.mtadevworks.web.id/)**, an independent web de
 <!--  TECH STACK                                     -->
 <!-- ─────────────────────────────────────────────── -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="🔨" width="25" height="25" /> Tech Stack
+## 🔨 Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -180,7 +180,7 @@ I run **[MTA Devworks](https://www.mtadevworks.web.id/)**, an independent web de
 <!--  FEATURED CLIENT WORK                           -->
 <!-- ─────────────────────────────────────────────── -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="25" height="25" /> Featured Client Work
+## ⭐ Featured Client Work
 
 ### PT Loka Logistics Solution — Company Profile Website
 
@@ -197,7 +197,7 @@ A company profile website built for a logistics business. Clean, responsive, and
 <!--  SELECTED GITHUB PROJECTS                       -->
 <!-- ─────────────────────────────────────────────── -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="📂" width="25" height="25" /> Selected GitHub Projects
+## 📂 Selected GitHub Projects
 
 > I'm curating my public repositories to better showcase my work in full-stack web development, business websites, and Laravel/PHP projects.
 >
@@ -213,7 +213,7 @@ A company profile website built for a logistics business. Clean, responsive, and
 <!--  CONTACT CTA                                    -->
 <!-- ─────────────────────────────────────────────── -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="📞" width="25" height="25" /> Let's Connect
+## 📞 Let's Connect
 
 <div align="center">
 
