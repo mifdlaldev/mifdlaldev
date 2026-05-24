@@ -75,7 +75,7 @@ mta@portfolio:~$ █
 <tr>
 <td width="60%">
 
-I'm a **Software Engineering graduate** from **SMKN 1 Sumedang** with around **2 years of hands-on experience** in web and mobile development.
+I'm a **Software Engineering graduate** from **SMKN 1 Sumedang** with around **2 years of hands-on experience** in web development.
 
 I combine **AI-assisted building** with web fundamentals, planning, and deployment awareness to turn business needs into **responsive websites**, **company profiles**, and **full-stack web interfaces**.
 
@@ -102,7 +102,7 @@ I enjoy turning ideas into clean, responsive, and practical digital products tha
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="25" height="25" /> MTA Devworks
 
-I run **[MTA Devworks](https://www.mtadevworks.web.id/)**, an independent web & mobile development studio focused on building practical digital products for businesses and clients.
+I run **[MTA Devworks](https://www.mtadevworks.web.id/)**, an independent web development studio focused on building practical digital products for businesses and clients.
 
 > **Delivery Capability:**
 > 1. Planning from business context
@@ -131,9 +131,9 @@ I run **[MTA Devworks](https://www.mtadevworks.web.id/)**, an independent web & 
 
 <div align="center">
 
-| 💼 Business Websites | 🌐 Full-Stack Apps | 🛒 E-Commerce | 📱 Mobile Apps |
-|:---:|:---:|:---:|:---:|
-| Company profiles, landing pages, portfolio sites | Laravel + React / Next.js web apps with auth, APIs, dashboards | Transactional websites, payment integration, product catalogs | Flutter cross-platform applications |
+| 💼 Business Websites | 🌐 Full-Stack Apps | 🛒 E-Commerce |
+|:---:|:---:|:---:|
+| Company profiles, landing pages, portfolio sites | Laravel + React / Next.js web apps with auth, APIs, dashboards | Transactional websites, payment integration, product catalogs |
 
 </div>
 
@@ -173,7 +173,7 @@ I run **[MTA Devworks](https://www.mtadevworks.web.id/)**, an independent web & 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ![Responsive UI](https://img.shields.io/badge/Responsive_UI-FF6B6B?style=for-the-badge)
 
 <!-- ─────────────────────────────────────────────── -->
@@ -199,7 +199,7 @@ A company profile website built for a logistics business. Clean, responsive, and
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="📂" width="25" height="25" /> Selected GitHub Projects
 
-> I'm curating my public repositories to better showcase my work in full-stack web development, business websites, Laravel/PHP projects, and Flutter mobile apps.
+> I'm curating my public repositories to better showcase my work in full-stack web development, business websites, and Laravel/PHP projects.
 >
 > For client projects with private source code, I only share public live links and non-sensitive project summaries.
 
