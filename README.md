@@ -193,38 +193,6 @@ I run **[MTA Devworks](https://www.mtadevworks.web.id/)**, an independent web de
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
 
-<!-- ─────────────────────────────────────────────── -->
-<!--  FEATURED CLIENT WORK                           -->
-<!-- ─────────────────────────────────────────────── -->
-
-## ⭐ Featured Client Work
-
-### PT Loka Logistics Solution — Company Profile Website
-
-> **Status:** `DELIVERED` | **Type:** Private Client Project | **Date:** May 2026
-
-A company profile website built for a logistics business. Clean, responsive, and focused on conveying trust and operational capability.
-
-- **Live Website:** [lokalogistics.co.id](https://lokalogistics.co.id/)
-- **Role:** Web Developer
-- **Tech:** Laravel, React, Tailwind CSS, Responsive UI
-- **Source Code:** Private
-
-<!-- ─────────────────────────────────────────────── -->
-<!--  SELECTED GITHUB PROJECTS                       -->
-<!-- ─────────────────────────────────────────────── -->
-
-## 📂 Selected GitHub Projects
-
-> I'm curating my public repositories to better showcase my work in full-stack web development, business websites, and Laravel/PHP projects.
->
-> For client projects with private source code, I only share public live links and non-sensitive project summaries.
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mifdlaldev&repo=mifdlaldev&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&show_owner=true)](https://github.com/mifdlaldev/mifdlaldev)
-
-</div>
 
 <!-- ─────────────────────────────────────────────── -->
 <!--  CONTACT CTA                                    -->
