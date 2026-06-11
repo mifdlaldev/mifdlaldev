@@ -23,10 +23,8 @@
 <!-- ═══════════════════════════════════════════════ -->
 
 ```bash
-mta@github:~$ whoami
-```
-
-```bash
+╭─ ~/mifdlaldev on main
+╰─❯ mta@github:~$ whoami
 Mifdlal Tsaqib Alfarras
 ──────────────────────
 Role       : Full-Stack Web Developer
@@ -53,51 +51,18 @@ Focus areas:
 <!-- ═══════════════════════════════════════════════ -->
 
 ```bash
-mta@github:~$ ls -la projects/ --featured
-```
-
-```
+╭─ ~/mifdlaldev on main
+╰─❯ mta@github:~$ ls -la projects/ --featured
 drwxr-xr-x  3 mifdlal  mifdlal   120B  Jun  2026  cinestack/
 drwxr-xr-x  2 mifdlal  mifdlal    64B  May  2026  mtadevworks/
 ```
 
 <br>
 
-### 🎬 **CineStack** — Full-Stack Movie Platform
-
-> [github.com/mifdlaldev/cinestack](https://github.com/mifdlaldev/cinestack)
-
-Production-grade movie discovery platform built with Next.js 15 + Supabase.
-
 ```
-📦 Architecture
-├── 🎨 Client Layer    Next.js 15, Tailwind CSS v4, Framer Motion
-├── 🔌 API Layer       Route Handlers + Server Actions
-├── ⚙️  Service Layer  TMDB API, Rate Limiter (Upstash), Auth (Supabase)
-├── 🗄️  Data Layer     PostgreSQL, RLS, Redis Cache
-└── 🔄 CI/CD           GitHub Actions, Vitest, Playwright
+🎬 CineStack      → Full-stack movie platform (Next.js, Supabase, TMDB)
+🌐 MTA Devworks   → Independent web development studio
 ```
-
-**Key Features:** Movie catalog with TMDB API integration · 5-star review system with nested replies · Optimistic updates · Watchlist management · Admin dashboard · Rate limiting · CAPTCHA · Lighthouse ≥ 95
-
-**Stack:** Next.js 15 · TypeScript · Supabase · Tailwind CSS v4 · Framer Motion · TanStack Query · Upstash Redis · Vercel
-
-<br>
-
-### 🌐 **MTA Devworks** — Freelance Studio
-
-> [mtadevworks.web.id](https://www.mtadevworks.web.id/)
-
-My independent web development studio — from planning to deployment.
-
-```
-Services
-├── 💼 Business Websites  Company profiles, landing pages, portfolios
-├── 🖥️  Web Apps         Custom apps, dashboards, business tools
-└── 🛒  E-Commerce       Online stores with payment integration
-```
-
-**Process:** Understand → Shape → Build → Launch
 
 <br>
 
@@ -106,12 +71,10 @@ Services
 <!-- ═══════════════════════════════════════════════ -->
 
 ```bash
-mta@github:~$ cat skills.txt
-```
-
-```
+╭─ ~/mifdlaldev on main
+╰─❯ mta@github:~$ cat skills.txt
 FRONTEND
-├── React / Next.js 15 (App Router)
+├── React / Next.js (App Router)
 ├── TypeScript / JavaScript (ESM)
 ├── Tailwind CSS v4 / CSS3
 ├── Framer Motion / animations
@@ -144,7 +107,8 @@ DEVOPS & TOOLS
 <!-- ═══════════════════════════════════════════════ -->
 
 ```bash
-mta@github:~$ ./metrics.sh
+╭─ ~/mifdlaldev on main
+╰─❯ mta@github:~$ ./metrics.sh
 ```
 
 <div align="center">
@@ -180,10 +144,8 @@ mta@github:~$ ./metrics.sh
 <!-- ═══════════════════════════════════════════════ -->
 
 ```bash
-mta@github:~$ cat services.txt
-```
-
-```
+╭─ ~/mifdlaldev on main
+╰─❯ mta@github:~$ cat services.txt
 CAPABILITY       WHAT IT MEANS FOR YOU
 ───────────────  ──────────────────────────────────────────────
 📋 Planning      Business goals → technical specs → roadmap
@@ -201,7 +163,8 @@ CAPABILITY       WHAT IT MEANS FOR YOU
 <!-- ═══════════════════════════════════════════════ -->
 
 ```bash
-mta@github:~$ ./contact.sh --hire
+╭─ ~/mifdlaldev on main
+╰─❯ mta@github:~$ ./contact.sh --hire
 ```
 
 <div align="center">
