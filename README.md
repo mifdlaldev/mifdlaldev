@@ -1,241 +1,242 @@
 <div align="center">
 
-<!-- ─────────────────────────────────────────────── -->
-<!--  HERO BANNER                                    -->
-<!-- ─────────────────────────────────────────────── -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--  TERMINAL HEADER                                -->
+<!-- ═══════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=MIFDLAL%20TSAQIB%20ALFARRAS&fontSize=38&fontColor=58A6FF&animation=fadeIn&fontAlignY=32&desc=Full-stack%20web%20developer%20using%20vibe%20coding%20to%20ship%20practical%20business%20websites.&descSize=16&descAlignY=55&descColor=C9D1D9" alt="hero banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1A2E&height=200&section=header&text=MIFDLAL%20TSAQIB%20ALFARRAS&fontSize=36&fontColor=F5C518&animation=fadeIn&fontAlignY=28&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20AI-Assisted%20Engineering&descSize=15&descAlignY=50&descColor=C9D1D9" alt="header" />
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mifdlaldev&color=58A6FF&style=flat)](https://github.com/mifdlaldev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:mtadevworks@outlook.com)
-[![Website](https://img.shields.io/badge/Website-21262D?style=flat&logo=About.me&logoColor=white)](https://www.mtadevworks.web.id/)
+<!-- STATUS BAR — compact, purposeful -->
+<a href="https://github.com/mifdlaldev"><img src="https://komarev.com/ghpvc/?username=mifdlaldev&color=F5C518&style=flat-square&label=visitors" alt="visitors"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:mtadevworks@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
+<a href="https://www.mtadevworks.web.id/"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
-<!-- ─────────────────────────────────────────────── -->
-<!--  TERMINAL PROFILE CARD                          -->
-<!-- ─────────────────────────────────────────────── -->
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--  WHOAMI                                        -->
+<!-- ═══════════════════════════════════════════════ -->
 
 ```bash
-mta@portfolio:~$ mta profile --full
-
-┌─────────────────────────────────────────────────────────────┐
-│  AI-ASSISTED WEB DEVELOPER / MTA DEVWORKS                   │
-├─────────────────────────────────────────────────────────────┤
-│  Name        : Mifdlal Tsaqib Alfarras                      │
-│  Role        : Full-stack Web Developer & Vibe Coder        │
-│  Education   : SMKN 1 Sumedang — Software Engineering       │
-│  Experience  : ~2 years hands-on web project delivery       │
-│  Status      : open-for-work                                │
-│  Method      : vibe coding + technical review               │
-│  Delivery    : AI-assisted web delivery                     │
-│  Focus       : Business websites, company profiles,         │
-│                full-stack web apps, e-commerce              │
-└─────────────────────────────────────────────────────────────┘
-
-mta@portfolio:~$ mta contact --brief
-📧 mtadevworks@outlook.com
-🔗 linkedin.com/in/mifdlal-tsaqib-alfarras
-🌐 mtadevworks.web.id
-
-mta@portfolio:~$ █
+mta@github:~$ whoami
 ```
 
-<!-- ─────────────────────────────────────────────── -->
-<!--  GITHUB STATS                                   -->
-<!-- ─────────────────────────────────────────────── -->
+```bash
+Mifdlal Tsaqib Alfarras
+──────────────────────
+Role       : Full-Stack Web Developer
+Method     : AI-Assisted Development + Technical Review
+Experience : 2+ years shipping production-grade web solutions
+Status     : Open for freelance & collaboration
+Location   : Indonesia
+
+I combine modern web technologies (Next.js, Laravel, Supabase)
+with AI tooling to build business websites, full-stack apps,
+and e-commerce platforms — faster without cutting corners.
+
+Focus areas:
+  • Business websites & company profiles
+  • Full-stack web applications
+  • E-commerce & transactional platforms
+  • AI-assisted project delivery
+```
+
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--  PROJECTS — flagship showcase                  -->
+<!-- ═══════════════════════════════════════════════ -->
+
+```bash
+mta@github:~$ ls -la projects/ --featured
+```
+
+```
+drwxr-xr-x  3 mifdlal  mifdlal   120B  Jun  2026  cinestack/
+drwxr-xr-x  2 mifdlal  mifdlal    64B  May  2026  mtadevworks/
+```
+
+<br>
+
+### 🎬 **CineStack** — Full-Stack Movie Platform
+
+> [github.com/mifdlaldev/cinestack](https://github.com/mifdlaldev/cinestack)
+
+Production-grade movie discovery platform built with Next.js 15 + Supabase.
+
+```
+📦 Architecture
+├── 🎨 Client Layer    Next.js 15, Tailwind CSS v4, Framer Motion
+├── 🔌 API Layer       Route Handlers + Server Actions
+├── ⚙️  Service Layer  TMDB API, Rate Limiter (Upstash), Auth (Supabase)
+├── 🗄️  Data Layer     PostgreSQL, RLS, Redis Cache
+└── 🔄 CI/CD           GitHub Actions, Vitest, Playwright
+```
+
+**Key Features:** Movie catalog with TMDB API integration · 5-star review system with nested replies · Optimistic updates · Watchlist management · Admin dashboard · Rate limiting · CAPTCHA · Lighthouse ≥ 95
+
+**Stack:** Next.js 15 · TypeScript · Supabase · Tailwind CSS v4 · Framer Motion · TanStack Query · Upstash Redis · Vercel
+
+<br>
+
+### 🌐 **MTA Devworks** — Freelance Studio
+
+> [mtadevworks.web.id](https://www.mtadevworks.web.id/)
+
+My independent web development studio — from planning to deployment.
+
+```
+Services
+├── 💼 Business Websites  Company profiles, landing pages, portfolios
+├── 🖥️  Web Apps         Custom apps, dashboards, business tools
+└── 🛒  E-Commerce       Online stores with payment integration
+```
+
+**Process:** Understand → Shape → Build → Launch
+
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--  SKILLS                                        -->
+<!-- ═══════════════════════════════════════════════ -->
+
+```bash
+mta@github:~$ cat skills.txt
+```
+
+```
+FRONTEND
+├── React / Next.js 15 (App Router)
+├── TypeScript / JavaScript (ESM)
+├── Tailwind CSS v4 / CSS3
+├── Framer Motion / animations
+└── Vue.js (familiar)
+
+BACKEND
+├── Laravel / PHP
+├── Node.js / Express
+├── REST API Design
+└── Next.js Route Handlers & Server Actions
+
+DATABASE & STORAGE
+├── PostgreSQL / MySQL
+├── Supabase (RLS, Auth, Storage, Realtime)
+├── Prisma ORM
+├── Firebase / Redis
+└── MongoDB (familiar)
+
+DEVOPS & TOOLS
+├── Git / GitHub / GitHub Actions
+├── Docker / Vite
+├── Figma / WordPress
+└── AWS (familiar)
+```
+
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--  GITHUB METRICS (dynamic via API)              -->
+<!-- ═══════════════════════════════════════════════ -->
+
+```bash
+mta@github:~$ ./metrics.sh
+```
 
 <div align="center">
 
 <a href="https://github.com/mifdlaldev">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mifdlaldev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mifdlaldev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F5C518&icon_color=F5C518&text_color=C9D1D9">
+    <img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mifdlaldev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F5C518&icon_color=F5C518&text_color=C9D1D9" alt="GitHub Stats"/>
+  </picture>
 </a>
 <a href="https://github.com/mifdlaldev">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mifdlaldev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mifdlaldev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F5C518&text_color=C9D1D9&langs_count=6">
+    <img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mifdlaldev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F5C518&text_color=C9D1D9&langs_count=6" alt="Top Languages"/>
+  </picture>
 </a>
 
 <br>
 
 <a href="https://github.com/mifdlaldev">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mifdlaldev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mifdlaldev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=F5C518&fire=F5C518&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F5C518&sideLabels=F5C518">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mifdlaldev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=F5C518&fire=F5C518&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F5C518&sideLabels=F5C518" alt="Streak"/>
+  </picture>
 </a>
 
 </div>
 
-<!-- ─────────────────────────────────────────────── -->
-<!--  ABOUT ME                                       -->
-<!-- ─────────────────────────────────────────────── -->
+<br>
 
-## 👨‍💻 About Me
+<!-- ═══════════════════════════════════════════════ -->
+<!--  SERVICES — client-facing                      -->
+<!-- ═══════════════════════════════════════════════ -->
 
-<table>
-<tr>
-<td width="60%">
+```bash
+mta@github:~$ cat services.txt
+```
 
-I'm a **Software Engineering graduate** from **SMKN 1 Sumedang** with around **2 years of hands-on experience** in web development.
+```
+CAPABILITY       WHAT IT MEANS FOR YOU
+───────────────  ──────────────────────────────────────────────
+📋 Planning      Business goals → technical specs → roadmap
+⚡ Development   AI-assisted build with technical review
+✅ Quality       Responsive, performant, accessible, documented
+🚀 Delivery      Deployment + maintenance guide included
+```
 
-I combine **AI-assisted building** with web fundamentals, planning, and deployment awareness to turn business needs into **responsive websites**, **company profiles**, and **full-stack web interfaces**.
+**Ideal for:** businesses needing a website, startups launching a web app, or companies wanting to establish their digital presence.
 
-I enjoy turning ideas into clean, responsive, and practical digital products that help businesses and users solve real problems.
+<br>
 
-**Current Focus:**
-- Vibe-coded, technically reviewed delivery
-- Full-stack web apps with Laravel / Next.js / React
-- Business websites and company profiles
-- E-commerce & transactional platforms
+<!-- ═══════════════════════════════════════════════ -->
+<!--  CONTACT / CTA                                 -->
+<!-- ═══════════════════════════════════════════════ -->
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
-
-</td>
-</tr>
-</table>
-
-<!-- ─────────────────────────────────────────────── -->
-<!--  MTA DEVWORKS                                   -->
-<!-- ─────────────────────────────────────────────── -->
-
-## 🚀 MTA Devworks
-
-I run **[MTA Devworks](https://www.mtadevworks.web.id/)**, an independent web development studio focused on building practical digital products for businesses and clients.
-
-> **Delivery Capability:**
-> 1. Planning from business context
-> 2. AI-assisted website implementation
-> 3. Technical stack review
-> 4. Deployment and maintenance path
-
-<!-- ─────────────────────────────────────────────── -->
-<!--  HOW I WORK                                     -->
-<!-- ─────────────────────────────────────────────── -->
-
-## ⚙️ How I Work
-
-| Stage | What Happens |
-|-------|--------------|
-| **01 — Understand** | Business goal, audience, constraints, planning, and launch path are mapped first. |
-| **02 — Shape** | Pages, user flow, content, and technical boundaries are reduced to what the project needs. |
-| **03 — Build** | AI-assisted implementation is reviewed against responsive UI, stack decisions, and maintainable structure. |
-| **04 — Launch** | Deployment readiness, maintenance path, and handoff notes are reviewed before delivery. |
-
-<!-- ─────────────────────────────────────────────── -->
-<!--  SERVICES                                       -->
-<!-- ─────────────────────────────────────────────── -->
-
-## 🛠️ What I Can Build
+```bash
+mta@github:~$ ./contact.sh --hire
+```
 
 <div align="center">
 
-| 💼 Business Websites | 🌐 Web Applications | 🛒 E-Commerce |
-|:---:|:---:|:---:|
-| Company profiles, landing pages, portfolio sites, and brochure websites that establish your brand online | Custom web apps with user accounts, admin dashboards, data workflows, and business process automation | Online stores with product catalogs, shopping carts, checkout flows, and payment integration
-
-</div>
-
-<!-- ─────────────────────────────────────────────── -->
-<!--  TECH STACK                                     -->
-<!-- ─────────────────────────────────────────────── -->
-
-## 🔨 Tech Stack
-
-### Core Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
-
-**Backend**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-
-**Database & Storage**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-### Also Familiar With
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
-
-
-<!-- ─────────────────────────────────────────────── -->
-<!--  CONTACT CTA                                    -->
-<!-- ─────────────────────────────────────────────── -->
-
-## 📞 Let's Connect
-
-<div align="center">
-
-I'm **open to job opportunities** and **freelance projects**.
+Available for **freelance projects** and **collaborations**.
 
 <br>
 
 <a href="mailto:mtadevworks@outlook.com">
-  <img src="https://img.shields.io/badge/Email%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://www.mtadevworks.web.id/">
-  <img src="https://img.shields.io/badge/Visit%20Website-21262D?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  <img src="https://img.shields.io/badge/mtadevworks@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
 
-| 📧 Email | 🔗 LinkedIn | 🌐 Website |
-|----------|-------------|------------|
-| mtadevworks@outlook.com | [mifdlal-tsaqib-alfarras](https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/) | [mtadevworks.web.id](https://www.mtadevworks.web.id/) |
+<a href="https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://www.mtadevworks.web.id/">
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
-<!-- ─────────────────────────────────────────────── -->
-<!--  FOOTER                                         -->
-<!-- ─────────────────────────────────────────────── -->
+<br>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--  FOOTER                                        -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" alt="footer wave" />
+<sub>⚡ Crafted with intention — <strong>mifdlaldev</strong></sub>
 
 <br>
 
-<sub>Built with intention by <strong>MIFDLAL TSAQIB ALFARRAS</strong> · MTA Devworks</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:0D1117&height=80&section=footer" alt="footer" />
 
 </div>
