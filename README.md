@@ -11,7 +11,7 @@
 <!-- STATUS BAR — compact, purposeful -->
 <a href="https://github.com/mifdlaldev"><img src="https://komarev.com/ghpvc/?username=mifdlaldev&color=F5C518&style=flat-square&label=visitors" alt="visitors"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:mtadevworks@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
+<a href="mailto:mifdlaltsaqibalf26@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
 <a href="https://www.mtadevworks.web.id/"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 
 </div>
@@ -173,8 +173,8 @@ Available for **freelance projects** and **collaborations**.
 
 <br>
 
-<a href="mailto:mtadevworks@outlook.com">
-  <img src="https://img.shields.io/badge/mtadevworks@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+<a href="mailto:mifdlaltsaqibalf26@outlook.com">
+  <img src="https://img.shields.io/badge/mifdlaltsaqibalf26@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
