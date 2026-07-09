@@ -1,0 +1,6 @@
+# Local tooling
+.omo/
+.codegraph/
+
+# OS
+.DS_Store
