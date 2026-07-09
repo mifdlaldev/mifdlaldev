@@ -1,8 +1,7 @@
 <p align="center">
-  <!-- Visual default: pixel-art robot (SVG, render instan, retro & friendly).
-       Mau GIF anime/fun? Taruh file di assets/hello.gif lalu ganti src di bawah.
-       Hindari fanservice/action biar aman buat HR/recruiter. -->
-  <img src="assets/wave.svg" alt="hi, I'm Mifdlal" width="460"/>
+  <!-- Banner pixel-art (ChatGPT) + teks "MIFDLAL — BUILDING AGENTS".
+       Full-width responsif. Mau ganti? ganti file assets/banner.png. -->
+  <img src="assets/banner.png" alt="MIFDLAL — BUILDING AGENTS" width="100%"/>
 </p>
 
 <p align="center">
@@ -19,11 +18,11 @@
 
 Websites got cheap. Everyone ships a landing page. What *isn't* cheap is an agent that does the boring work for you — triaging, replying, routing, posting, monitoring — without a human in the loop for every step.
 
-That's what I build now: **AI-agent and automation systems**, not brochure sites.
+That's the direction I'm heading: **AI-agent and automation systems**, not brochure sites. Still early — but building in public.
 
-## What I actually do
+## What I'm learning to build
 
-I design agent workflows and automations that run on their own. The toolbox:
+I'm getting hands-on with agent workflows and automations. The toolbox I'm exploring:
 
 - **n8n** — visual workflows that connect your SaaS, APIs, and databases into one pipeline
 - **OpenClaw / Hermes** — agent runtimes for tasks that need reasoning, not just if/else
