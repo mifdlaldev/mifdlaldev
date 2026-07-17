@@ -7,22 +7,10 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28"> My Stack
 
+### 🤖 AI Agent & Automation
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ai,py,pytorch,tensorflow,sklearn,opencv" />
 </div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte,astro,tailwind,bootstrap,nuxtjs,remix,solidjs,vite,threejs,graphql,wasm" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,nestjs,express,spring,go,rust,postgres,mysql,mongodb,redis,sqlite,supabase,prisma" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,nginx,vercel,netlify,cloudflare,aws,gcp,azure,grafana,prometheus,jenkins,git,github,gitlab,linux,bash,vscode,figma,postman,selenium,cypress" />
-</div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   &nbsp;
@@ -41,12 +29,31 @@
   <img src="https://img.shields.io/badge/AI--Agents-0EA5E9?style=for-the-badge&logo=huggingface&logoColor=white" alt="AI Agents"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Prompt%20Engineering-22C55E?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Web%20Development-FF6B35?style=for-the-badge&logo=react&logoColor=white" alt="Web Development"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Testing-9B59B6?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+</div>
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte,astro,tailwind,bootstrap,nuxtjs,remix,solidjs,vite,threejs,graphql,wasm" />
+</div>
+
+### ⚙️ Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,nestjs,express,spring,go,rust" />
+</div>
+
+### 🗄️ Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,prisma" />
+</div>
+
+### 🚀 CI/CD & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,nginx,vercel,netlify,cloudflare,aws,gcp,azure,grafana,prometheus,jenkins" />
+</div>
+
+### 🛠️ Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,bash,vscode,figma,postman,selenium,cypress" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="28"> Connect
