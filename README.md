@@ -8,7 +8,19 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28"> My Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,python,kubernetes,docker,githubactions,github,git,linux,discord,telegram" />
+  <img src="https://skillicons.dev/icons?i=ai,py,pytorch,tensorflow,sklearn,opencv" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte,astro,tailwind,bootstrap,nuxtjs,remix,solidjs,vite,threejs,graphql,wasm" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,nestjs,express,spring,go,rust,postgres,mysql,mongodb,redis,sqlite,supabase,prisma" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,nginx,vercel,netlify,cloudflare,aws,gcp,azure,grafana,prometheus,jenkins,git,github,gitlab,linux,bash,vscode,figma,postman,selenium,cypress" />
 </div>
 
 <div align="center">
@@ -16,15 +28,25 @@
   &nbsp;
   <img src="https://img.shields.io/badge/OpenClaw%2F%20Hermes-8B5CF6?style=for-the-badge&logo=robotframework&logoColor=white" alt="OpenClaw Hermes"/>
   &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CrewAI-2F4F4F?style=for-the-badge&logo=python&logoColor=white" alt="CrewAI"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LlamaIndex-0EA5E9?style=for-the-badge&logo=python&logoColor=white" alt="LlamaIndex"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/RAG-22C55E?style=for-the-badge&logo=huggingface&logoColor=white" alt="RAG"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/AI--Agents-0EA5E9?style=for-the-badge&logo=huggingface&logoColor=white" alt="AI Agents"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-22C55E?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Web%20Development-FF6B35?style=for-the-badge&logo=react&logoColor=white" alt="Web Development"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Testing-9B59B6?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing"/>
   &nbsp;
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-22C55E?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="28"> Connect
@@ -38,3 +60,7 @@
 </p>
 
 <sub>Building agents from Bandung, Indonesia · <a href="https://www.mtadevworks.web.id/">mtadevworks.web.id</a></sub>
+
+---
+
+<sub>Profile banner animated with <a href="https://github.com/codewithwan/awan">awan</a> ☁️ by <a href="https://github.com/codewithwan">codewithwan</a> — MIT/Apache-2.0.</sub>
