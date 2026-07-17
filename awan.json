@@ -12,11 +12,16 @@
     "la-la, off we go again",
     "the melody walks me home"
   ],
-  "streak": 0,
-  "stats": [],
-  "contributions": "",
-  "contrib_year": 0,
-  "contrib_recent": 0,
+  "streak": 1,
+  "stats": [
+    "repos:15",
+    "stars earned:1",
+    "followers:46",
+    "following:109"
+  ],
+  "contributions": "0000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010011100011010100000001000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000004010000000000000000003110113243142112300000000000000100100000001.",
+  "contrib_year": 397,
+  "contrib_recent": 60,
   "output": "assets/awan.gif",
   "scenes": [
     {
@@ -57,8 +62,8 @@
       "then": "and {contrib_recent} in the last 30 days"
     },
     {
-      "act": "{verdict}",
-      "say": "CI decides: excited, or not"
+      "act": "sleep",
+      "say": "...i'll fix that, promise"
     },
     {
       "act": "sing"
