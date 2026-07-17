@@ -9,7 +9,7 @@
 
 ### 🤖 AI Agent & Automation
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ai,py,pytorch,tensorflow,sklearn,opencv" />
+  <img src="https://skillicons.dev/icons?i=py" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
@@ -48,7 +48,7 @@
 
 ### 🚀 CI/CD & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,nginx,vercel,netlify,cloudflare,aws,gcp,azure,grafana,prometheus,jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,nginx,vercel,netlify,cloudflare,aws" />
 </div>
 
 ### 🛠️ Tools
