@@ -1,0 +1,75 @@
+{
+  "username": "mifdlaldev",
+  "character": "characters/mifdlal.toml",
+  "name": "Mifdlal",
+  "role": "AI-agent & automation engineer",
+  "location": "Bandung, Indonesia",
+  "stack": "n8n, OpenClaw/Hermes & bots",
+  "song": "your favourite song",
+  "artist": "the artist",
+  "lyrics": [
+    "humming a tune only i can hear",
+    "la-la, off we go again",
+    "the melody walks me home"
+  ],
+  "streak": 0,
+  "stats": [],
+  "contributions": "",
+  "contrib_year": 0,
+  "contrib_recent": 0,
+  "output": "assets/awan.gif",
+  "scenes": [
+    {
+      "act": "wave",
+      "say": "hi! i'm {name} — building agents"
+    },
+    {
+      "act": "present",
+      "say": "{role}"
+    },
+    {
+      "act": "stroll",
+      "say": "based in {location}"
+    },
+    {
+      "act": "stats",
+      "say": "the numbers, if you're curious"
+    },
+    {
+      "act": "rocket",
+      "say": "i automate things, with {stack}"
+    },
+    {
+      "act": "launch",
+      "say": "...then watch 'em take off!"
+    },
+    {
+      "act": "bake",
+      "say": "and when i'm hungry, i bake"
+    },
+    {
+      "act": "campfire",
+      "say": "{streak}-day streak, still going"
+    },
+    {
+      "act": "contributions",
+      "say": "i'm very happy, {contrib_year} this year",
+      "then": "and {contrib_recent} in the last 30 days"
+    },
+    {
+      "act": "{verdict}",
+      "say": "CI decides: excited, or not"
+    },
+    {
+      "act": "sing"
+    },
+    {
+      "act": "soccer",
+      "say": "then a bit of football"
+    },
+    {
+      "act": "sleep",
+      "say": "okay... nap time, zzz"
+    }
+  ]
+}
