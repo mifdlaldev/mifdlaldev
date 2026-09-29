@@ -1,73 +1,78 @@
-<p align="center">
-  <!-- Live banner: regenerated nightly by awan (codewithwan/awan). Edit awan.json to change it. -->
-  <img src="assets/awan.gif" alt="Mifdlal walking my contribution year"/>
-</p>
+# Mifdlal Tsaqib Alfarras
+
+**Web & AI developer — Bandung, Indonesia**
+
+I build web applications for small businesses and public offices: Svelte and React
+frontends on Cloudflare, plus AI automation that removes repetitive manual work.
+
+**Open to freelance work** — remote, GMT+7.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28"> My Stack
+## Selected work
 
-### 🤖 AI Agent & Automation
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenClaw%2F%20Hermes-8B5CF6?style=for-the-badge&logo=robotframework&logoColor=white" alt="OpenClaw Hermes"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CrewAI-2F4F4F?style=for-the-badge&logo=python&logoColor=white" alt="CrewAI"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LlamaIndex-0EA5E9?style=for-the-badge&logo=python&logoColor=white" alt="LlamaIndex"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/RAG-22C55E?style=for-the-badge&logo=huggingface&logoColor=white" alt="RAG"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI--Agents-0EA5E9?style=for-the-badge&logo=huggingface&logoColor=white" alt="AI Agents"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-22C55E?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
-</div>
+### Company profile for a B2B logistics company
+Live site for a freight and logistics company: service pages, company profile,
+contact flow, SEO setup and analytics. Delivered end to end.
+`WordPress · PHP 8.2 · Cloudflare · SEO`
+→ [lokalogistics.co.id](https://lokalogistics.co.id)
 
-### 🎨 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte,astro,tailwind,bootstrap,nuxtjs,remix,solidjs,vite,threejs,graphql,wasm" />
-</div>
+### Digital queue system for a government office
+Residents take a number at a kiosk and staff call the next one in real time.
+Built for Kelurahan Talun, Sumedang. Live and in use.
+`Svelte 5 · TypeScript · Hono · Cloudflare Workers · D1`
+→ [sistem-antrian-talun](https://github.com/mifdlaldev/sistem-antrian-talun)
 
-### ⚙️ Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,django,nestjs,express,spring,go,rust" />
-</div>
+### Citizen satisfaction survey (SKM)
+Public service satisfaction survey for the same office, with admin reporting
+and export.
+`React · TypeScript · Hono · Cloudflare Workers · D1`
+→ [survei-kepuasan-talun](https://github.com/mifdlaldev/survei-kepuasan-talun)
 
-### 🗄️ Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,prisma" />
-</div>
+### Bilingual villa landing page
+Indonesian/English booking page with WhatsApp handoff, map, and validated forms.
+`Next.js 15 · TypeScript strict · Tailwind CSS 4 · next-intl · Zod`
+→ [Mahoni-House](https://github.com/mifdlaldev/Mahoni-House)
 
-### 🚀 CI/CD & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,nginx,vercel,netlify,cloudflare,aws" />
-</div>
+### AI point-of-sale with a business co-pilot
+POS for cafes and restaurants: real-time sales, inventory, and AI-generated
+customer segmentation and chat insights.
+`Next.js 16 · Supabase · Vercel AI SDK · Drizzle`
+→ [webapp-pos-ai-agent](https://github.com/mifdlaldev/webapp-pos-ai-agent)
 
-### 🛠️ Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,bash,vscode,figma,postman,selenium,cypress" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="28"> Connect
-
-<p align="center">
-  <a href="mailto:mifdlaltsaqibalf26@outlook.com"><img src="https://img.shields.io/badge/email-mifdlaltsaqibalf26@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://www.mtadevworks.web.id/"><img src="https://img.shields.io/badge/portfolio-mtadevworks.web.id-F5C518?style=for-the-badge&logo=google-chrome&logoColor=black" alt="portfolio"/></a>
-</p>
-
-<sub>Building agents from Bandung, Indonesia · <a href="https://www.mtadevworks.web.id/">mtadevworks.web.id</a></sub>
+### Anti-fraud education chatbot
+Financial-safety chatbot built spec-driven: 32 traced requirements,
+anti-hallucination guardrails, CI with zero runtime dependencies.
+`Node.js · Express · Gemini API`
+→ [cek-dulu](https://github.com/mifdlaldev/cek-dulu)
 
 ---
 
-<sub>Profile banner animated with <a href="https://github.com/codewithwan/awan">awan</a> ☁️ by <a href="https://github.com/codewithwan">codewithwan</a> — MIT/Apache-2.0.</sub>
+## How I work
+
+- **Small, working increments.** Every project I point at has a README you can
+  actually follow — setup, decisions, tradeoffs.
+- **Spec-driven.** Requirements get written down and traced to code, so scope
+  stays honest.
+- **Tests and CI where they pay off**, not for the badge.
+
+---
+
+## Stack
+
+**Languages** — TypeScript, JavaScript, Python, SQL, PHP
+**Frontend** — Svelte 5, React, Next.js, Tailwind CSS, Vite
+**Backend** — Hono, Node.js, Express, Cloudflare Workers, Supabase, Drizzle
+**Data** — Cloudflare D1, PostgreSQL, R2, SQLite
+**AI** — OpenAI / Anthropic / Gemini APIs, MCP servers, agent workflows, RAG
+**Tooling** — Git, GitHub Actions, Playwright, Vitest
+
+---
+
+## Contact
+
+- **Portfolio** — [www.mtadevworks.web.id](https://www.mtadevworks.web.id/)
+- **LinkedIn** — [linkedin.com/in/mifdlal](https://www.linkedin.com/in/mifdlal-tsaqib-alfarras/)
+- **Email** — [mifdlaltsaqibalf26@outlook.com](mailto:mifdlaltsaqibalf26@outlook.com)
+
+<sub>Bandung, Indonesia · GMT+7 · open to freelance work</sub>
